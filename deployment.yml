@@ -1,0 +1,2 @@
+image: daniyaalabbas/cineverse:latest
+imagePullPolicy: Always
